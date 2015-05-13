@@ -1,0 +1,16 @@
+.segment-modal {
+  position: absolute;
+  top: 15%;
+  left: 25%;
+  background-color: #e3e2e0;
+  color: #585858;
+  height: auto;
+  padding: 2em;
+  .segment-image{
+    max-height:500px;
+  }
+  .modal-icon{
+    margin-top:10px;
+  }
+
+}
